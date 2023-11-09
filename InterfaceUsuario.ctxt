@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=InterfaceUsuario
+comment0.text=\r\n\ Classe\ que\ faz\ a\ interface\ com\ usuario\ do\ simulador.\r\n\ Permite\ cadastrar\ carros\ e\ caminhoes,\ lista-los\ e\ mudar\ suas\ velocidades.\r\n\ \r\n\ @author\ Julio\ Cesar\ Alves\r\n\ @version\ 2023.11.06\r\n
+comment1.params=
+comment1.target=InterfaceUsuario()
+comment1.text=\r\n\ Construtor\ de\ objetos\ da\ Interface\ de\ usu\u00E1rio\r\n
+comment2.params=
+comment2.target=void\ executarMenu()
+comment2.text=\r\n\ Metodo\ principal\ que\ inicia\ a\ execucao\ do\ menu\ programa\r\n
+comment3.params=
+comment3.target=int\ exibirMenu()
+comment3.text=\r\n\ Exibe\ o\ menu\ para\ o\ usuario\ e\ retorna\ a\ opcao\ escolhida\ por\ ele\r\n\ \r\n\ @return\ Opcao\ de\ menu\ escolhida\ pelo\ usuario\r\n
+comment4.params=
+comment4.target=void\ adicionarVeiculo()
+comment4.text=\r\n\ Permite\ ao\ usuario\ adicionar\ um\ veiculo\ ao\ simulador.\r\n\ O\ usuario\ passa\ os\ dados\ de\ acordo\ com\ o\ tipo\ de\ veiculo.\r\n
+comment5.params=
+comment5.target=void\ alterarVelocidadeVeiculo()
+comment5.text=\r\n\ Permite\ ao\ usuario\ alterar\ a\ velocidade\ de\ um\ veiculo\ do\ simulador.\r\n\ O\ usuario\ informa\ o\ tipo\ de\ veiculo\ e\ o\ modelo.\r\n
+comment6.params=
+comment6.target=void\ exibirVeiculos()
+comment6.text=\r\n\ Exibe\ na\ tela\ os\ veiculos\ retornados\ pelo\ simulador\r\n
+comment7.params=
+comment7.target=void\ esperarTecla()
+comment7.text=\r\n\ Exibe\ na\ tela\ o\ texto\ "ENTER\ para\ continuar"\ e\ aguarda\ um\ ENTER\r\n
+numComments=8

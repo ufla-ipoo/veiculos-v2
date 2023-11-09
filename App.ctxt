@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ Classe\ que\ inicializa\ o\ programa\ (tem\ o\ m\u00E9todo\ main)\r\n\ \r\n\ @author\ Julio\ Cesar\ Alves\r\n\ @version\ 2023.11.06\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metodo\ principal\ que\ inicia\ a\ execucao\ do\ menu\ programa\r\n\r\n\ @param\ args\ Parametros\ do\ programa\ (o\ programa\ nao\ espera\ nenhum)\r\n
+numComments=2

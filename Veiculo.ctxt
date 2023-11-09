@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment0.text=\r\n\ Classe\ que\ representa\ os\ veiculos\ do\ simulador\ de\ transito.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.11.09\r\n
+comment1.params=modelo\ marca\ placa
+comment1.target=Veiculo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Veiculo\r\n
+comment2.params=
+comment2.target=java.lang.String\ obterModelo()
+comment2.text=\r\n\ Retorna\ o\ modelo\ do\ veiculo\r\n
+comment3.params=
+comment3.target=java.lang.String\ obterMarca()
+comment3.text=\r\n\ Retorna\ o\ marca\ do\ veiculo\r\n
+comment4.params=
+comment4.target=java.lang.String\ obterPlaca()
+comment4.text=\r\n\ Retorna\ o\ placa\ do\ veiculo\r\n
+comment5.params=
+comment5.target=int\ obterVelocidadeAtual()
+comment5.text=\r\n\ Retorna\ o\ velocidade\ atual\ do\ veiculo\r\n
+comment6.params=velocidade
+comment6.target=void\ definirVelocidadeAtual(int)
+comment6.text=\r\n\ Altera\ a\ velocidade\ do\ veiculo\r\n
+comment7.params=
+comment7.target=java.lang.String\ obterDescricaoVeiculo()
+comment7.text=\r\n\ Retorna\ uma\ descri\u00E7\u00E3o\ do\ veiculo\ como\ String\r\n
+numComments=8

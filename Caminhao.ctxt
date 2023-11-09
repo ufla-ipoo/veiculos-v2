@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Caminhao
+comment0.text=\r\n\ Classe\ para\ representar\ os\ caminhoes\ no\ simulador\ de\ tr\u00E2nsito.\r\n\ Tem\ tudo\ que\ todos\ os\ ve\u00EDculos\ t\u00EAm\ e\ acrescenta\ a\ informa\u00E7\u00E3o\r\n\ da\ capacidade\ de\ carga.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.11.09\r\n
+comment1.params=modelo\ marca\ placa\ capacidadeDeCarga
+comment1.target=Caminhao(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Caminhao\r\n
+comment2.params=
+comment2.target=int\ obterCapacidadeDeCarga()
+comment2.text=\r\n\ Retorna\ se\ a\ capacidade\ de\ carga\ do\ caminh\u00E3o\r\n
+comment3.params=
+comment3.target=java.lang.String\ obterDescricaoCaminhao()
+comment3.text=\r\n\ Retorna\ descricao\ detalhada\ do\ caminhao\r\n
+numComments=4
